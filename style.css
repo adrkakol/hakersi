@@ -1,0 +1,195 @@
+body {
+	background-color: #181818;
+	font-family: "Roboto", sans-serif;
+}
+
+.first {
+	width: 100%;
+	height: 500px;
+	background-image: url("tlo.jpeg");
+	background-size: cover;
+}
+
+img {
+	width: 450px;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 700;
+	color: #fff;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+}
+
+h4 {
+	font-size: 30px;
+	font-weight: 400;
+	color: #fff;
+}
+
+.section-two {
+	display: flex;
+}
+
+.section-two h2 {
+	font-size: 50px;
+	color: #fff;
+}
+
+.section-two h3 {
+	font-size: 30px;
+	color: #fff;
+}
+
+.section-three {
+	display: flex;
+}
+
+.section-three h2 {
+	font-size: 50px;
+	color: #fff;
+}
+
+.section-three h3 {
+	font-size: 30px;
+	color: #fff;
+}
+
+.section-four h2 {
+	font-size: 30px;
+	color: #fff;
+}
+
+ul {
+	font-size: 40px;
+}
+
+li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav {
+	position: fixed;
+	height: 56px;
+	background: #000;
+	width: 100%;
+	display: flex;
+}
+
+.logo {
+	width: 110px;
+	height: 56px;
+}
+
+.join {
+	color: white;
+	background-color: red;
+	border: none;
+	height: 40px;
+	width: 130px;
+	right: 150px;
+	position: absolute;
+}
+
+.sign {
+	color: white;
+	background-color: transparent;
+	border: 1px solid white;
+	height: 40px;
+	width: 130px;
+	right: 0px;
+	position: absolute;
+}
+
+footer {
+	background-color: #000;
+}
+
+footer h6 {
+	color: #757575;
+	font-size: 16px;
+}
+
+footer ul li a {
+	color: #757575;
+	font-size: 16px;
+}
+
+.footer {
+	display: flex;
+}
+
+.episodes {
+	font-size: 30px;
+	color: #fff;
+    font-weight: 100;
+}
+
+.story {
+	color: #a3a3a3;
+	border-left: 1px solid #a3a3a3;
+	margin-left: 9px;
+	padding-left: 15px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+}
+
+.season {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.release {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.description {
+    font-size: 16px;
+    color: #a3a3a3;
+    font-weight: 400;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+}
+
+.card h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.card p {
+    font-size: 12px;
+    font-weight: 400;
+    color: #a3a3a3;
+}
+
+.card {
+    width: 300px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.javascript {
+    font-size: 60px;
+    color: #fff;
+}
